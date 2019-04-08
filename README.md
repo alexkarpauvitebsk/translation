@@ -8,3 +8,5 @@ You can use one of the following ways:
 3) Contact support in [Telegram](https://t.me/ralovets).
 
 Thank you for helping us to improve ProtectronBot!
+
+bla bla bla
