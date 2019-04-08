@@ -1,0 +1,38 @@
+language:
+	name: English
+group:
+	start: Started. Thank you.
+	not_admin: Verify you group admin rights, please.
+  setup_not_correct: Please allow me to delete messages and ban user (add as admin)
+  stop: Stopped. Feel free to start me again later.
+  active: I'm started.
+  stopped: I'm stopped.
+  new: New group. Please start me.
+private:
+  start: |
+    Hello! I protect groups from spam messages.
+    Please follow the step below:
+    
+    1) [Add](https://telegram.me/ProtectronBot?startgroup=true) me
+      to the group with permissions to *delete messages* and *ban
+      users*
+    2) Run */start* command in the group
+
+    What do I do? Use /help command.
+    Have questions or feedback? Ask my [support](https://t.me/ralovets).
+  help: |
+    * What do I do? *
+
+    Basically I clean common for telegram groups spam:
+    - links to other telegram chats;
+    - shortened links from new users;
+    - links from suspicious members;
+    - kick spammers;
+    - trust real chat members.
+
+    Aviable *group* commands:
+    */start* actives bot;
+    */status* show the current bot status;
+    */stop* deactivates bot.
+
+    Please follow my updates, new features will be available soon.

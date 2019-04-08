@@ -1,0 +1,37 @@
+language:
+	name: Deutsch
+group:
+	start: Bot arbeitet. Danke Ihnen!
+	not_admin: Bitte bestätigen Sie Ihre Gruppenadministratorrechte.
+  setup_not_correct: Bitte erlauben Sie mir, Nachrichten zu löschen und Benutzer zu sperren (als Administrator hinzufügen).
+  stop: Bot blieb stehen. Sie können später starten.
+  active: Ich arbeite.
+  stopped: Ich bin angehalten.
+  new: Neue Gruppe Bitte renn mich.
+private:
+  start: |
+    Hallo! Dieser Bot schützt Gruppen vor Spam-Nachrichten.
+    Bitte folgen Sie den Anweisungen unten, um den Bot zu starten:
+    
+    1) [Hinzufügen](https://telegram.me/ProtectronBot?startgroup=true) eines Bots 
+     zur Gruppe mit *Nachrichten löschen* und *Nutzer sperren*
+    2) Führen Sie den Befehl */start* in Ihrer Gruppe aus
+
+    Was macht er? Verwenden Sie den Befehl /help, um dies herauszufinden.
+    Haben Sie Fragen oder Feedback? Sie können mich kontaktieren [Unterstützung](https://t.me/ralovets).
+  help: |
+    * Was kann ich tun *
+
+    Die Hauptfunktionen sind das Entfernen von Spam-Nachrichten sowie:
+    - Links zu anderen Telegramm-Chats;
+    - kurze Links von neuen Benutzern;
+    - Links von verdächtigen Teilnehmern;
+    - entfernt Spammer;
+    - vertraut echten Chat-Teilnehmern
+
+    Verfügbare Teambefehle
+    */start* Läuft den Bot;
+    */status* Zeigt den aktuellen Status des Bots an;
+    */stop* stoppt den Bot.
+
+    Bitte bleiben Sie dran. Neue Funktionen werden in Kürze erscheinen.

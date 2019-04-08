@@ -1,0 +1,37 @@
+language:
+	name: Nederlands
+group:
+	start: Bot werkt. Bedankt!
+	not_admin: Bevestig de rechten van uw groepsbeheerder.
+  setup_not_correct: Staat u mij toe berichten te verwijderen en gebruikers te verbannen (toevoegen als beheerder)
+  stop: Bot stopte. Je kunt later met hem werken.
+  active: Ik werk.
+  stopped: Ik ben gestopt.
+  new: Nieuwe groep. Ren me alsjeblieft.
+private:
+  start: |
+    Welkom! Deze bot beschermt groepen tegen spamberichten.
+    Volg de onderstaande instructies om de bot te starten:
+    
+    1) [Voeg bot toe](https://telegram.me/ProtectronBot?startgroup=true) aan groep
+      met rechten *berichten verwijderen* en *Leben blokkeren*
+    2) Voer de opdracht */start* in uw groep uit
+
+    Wat is hij aan het doen? Gebruik het /help om uit te vinden.
+    Heeft u vragen of feedback? U kunt contact met mij opnemen [ondersteuning](https://t.me/ralovets).
+  help: |
+    * Wat kan ik doen? *
+
+    De belangrijkste functies zijn om spamberichten te verwijderen, evenals:
+    - links naar andere telegramchats;
+    - korte links van nieuwe gebruikers;
+    - links van verdachte deelnemers;
+    - verwijdert spammers;
+    - vertrouwt op echte chatdeelnemers.
+
+    Beschikbare opdrachten voor *groep*:
+    */start* draai de robot;
+    */status* toon de huidige status van de robot;
+    */stop* stop de robot.
+
+    Blijf alsjeblieft op de hoogte. Binnenkort verschijnen nieuwe functies.

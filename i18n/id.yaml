@@ -1,0 +1,38 @@
+language:
+	name: Indonesia
+group:
+	start: Bot bekerja. Terima kasih!
+	not_admin: Harap konfirmasi hak administrator grup Anda.
+  setup_not_correct: Izinkan saya menghapus pesan dan mencekal pengguna (tambahkan sebagai administrator)
+  stop: Bot dalam keadaan berhenti. Anda bisa menjalankan saya nanti.
+  active: Saya bekerja.
+  stopped: Saya berhenti.
+  new: Grup baru. Tolong jalankan saya.
+private:
+  start: |
+    Halo! Bot ini melindungi grup dari pesan spam.
+    Silakan ikuti instruksi di bawah ini untuk meluncurkan bot:
+    
+    1) [Tambah](https://telegram.me/ProtectronBot?startgroup=true) bot
+      ke grup Anda dan berikan haknya *hapus pesan* dan *blokir anggota*
+
+    2) Jalankan perintah */start* di grup Anda
+
+    Apa yang bisa dilakukan bot? Gunakan perintah /help untuk mencari tahu.
+    Punya pertanyaan atau umpan balik? Anda bisa menghubungi [saya](https://t.me/ralovets).
+  help: |
+    * Apa yang bisa saya lakukan? *
+
+    Fungsi utamanya adalah untuk menghapus pesan spam, dan juga:
+    - tautan ke obrolan telegram lainnya;
+    - tautan pendek dari pengguna baru;
+    - tautan dari peserta yang mencurigakan;
+    - menghapus spammer;
+    - mempercayai peserta obrolan nyata.
+
+    Perintah yang tersedia untuk *grup*:
+    */start* menjalankan bot;
+    */status* menunjukkan status bot saat ini;
+    */stop* menghentikan bot.
+
+    Harap tinjau perubahannya. Fitur baru segera hadir

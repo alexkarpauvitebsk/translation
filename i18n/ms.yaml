@@ -1,0 +1,37 @@
+language:
+	name: Melayu
+group:
+	start: Bot sedang berfungsi. Terima kasih!
+	not_admin: Sila sahkan hak pentadbir kumpulan anda.
+  setup_not_correct: Tolong izinkan saya untuk memadam mesej dan mengharamkan pengguna (tambah sebagai pentadbir)
+  stop: Bot itu dimatikan. Anda boleh menghidupkan saya kemudian.
+  active: Saya bekerja.
+  stopped: Saya dihentikan.
+  new: Kumpulan baru. Tolong jalankan saya.
+private:
+  start: |
+    Hello! Bot ini melindungi kumpulan dari mesej spam.
+    Sila ikuti arahan di bawah untuk melancarkan bot:
+    
+    1) [Tambah](https://telegram.me/ProtectronBot?startgroup=true) bot
+      kepada kumpulan yang mempunyai hak *untuk menghapus mesej* dan *untuk menghalang peserta*
+    2) alankan arahan */start* dalam kumpulan anda
+
+    Apa yang dia mampu? Gunakan perintah */help* untuk mengetahui.
+    Ada soalan atau maklum balas? Anda boleh menghubungi [saya](https://t.me/ralovets).
+  help: |
+    * Apa yang boleh saya lakukan? *
+
+    Fungsi utama adalah untuk membuang mesej spam, serta:
+    - rujukan kepada sembang telegram lain;
+    - pautan pendek daripada pengguna baru;
+    - pautan dari peserta yang mencurigakan;
+    - menghilangkan spammer;
+    - mempercayai peserta sembang sebenar.
+
+    Perintah yang ada untuk *kumpulan*:
+    */start* Jalankan bot;
+    */status* menunjukkan keadaan semasa bot;
+    */stop* berhenti bot.
+
+    Sila tunggu. Ciri baru akan muncul tidak lama lagi.
